@@ -1,0 +1,7 @@
+--vfs-cache-mode writes
+--cache-chunk-path /tmp
+--cache-dir /tmp
+--cache-db-path /tmp
+--cache-chunk-size 10M
+--cache-chunk-no-memory
+--buffer-size 0M
